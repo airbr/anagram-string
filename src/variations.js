@@ -32,3 +32,17 @@ export function getCapitalized(name) {
 export function getClean(name) {
   return name.trim();
 }
+
+/** @param {string} name */
+export function getReverse(name) {
+  return name.split("").reverse().join("");
+}
+
+/** @param {string} name */
+export function getReverseForOf(name) {
+  let reversed = "";
+  for(let char of name){
+    reversed = char + reversed;
+  }
+  return reversed;
+}

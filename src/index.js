@@ -6,6 +6,8 @@ import {
   getUpper,
   getCapitalized,
   getClean,
+  getReverse,
+  getReverseForOf,
 } from "./variations.js";
 
 const answer1 = document.querySelector("#answer1");
@@ -15,6 +17,9 @@ const answer4 = document.querySelector("#answer4");
 const answer5 = document.querySelector("#answer5");
 const answer6 = document.querySelector("#answer6");
 const answer7 = document.querySelector("#answer7");
+const answer8 = document.querySelector("#answer8");
+const answer9 = document.querySelector("#answer9");
+
 
 const name = document.querySelector("#your-name");
 
@@ -32,4 +37,6 @@ name.addEventListener("keyup", () => {
     answer6.textContent = "";
   }
   answer7.textContent = getClean(value);
+  answer8.textContent = getReverse(value);
+  answer9.textContent = getReverseForOf(value);
 });
