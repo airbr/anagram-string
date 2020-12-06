@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your site</title>
+    <link rel="stylesheet" href="app.css" />
+  </head>
+  <body>
+    <nav>
+      <h1>Name variations</h1>
+    </nav>
+
+    <main>
+      <div>
+        <label class="label" for="component-name">Enter your name</label>
+        <input
+          type="text"
+          class="textbox"
+          placeholder="Your name"
+          id="your-name"
+        />
+      </div>
+
+      <div class="table-container">
+        <table border="1">
+          <thead>
+            <tr>
+              <th width="200px">Variation</th>
+              <th>Result</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Number of characters</td>
+              <td id="answer1"></td>
+            </tr>
+            <tr>
+              <td>First character</td>
+              <td id="answer2"></td>
+            </tr>
+            <tr>
+              <td>Last character</td>
+              <td id="answer3"></td>
+            </tr>
+            <tr>
+              <td>Lower case</td>
+              <td id="answer4"></td>
+            </tr>
+            <tr>
+              <td>Upper case</td>
+              <td id="answer5"></td>
+            </tr>
+            <tr>
+              <td>Capitalize</td>
+              <td id="answer6"></td>
+            </tr>
+            <tr>
+              <td>Without leading<br />and trailing spaces</td>
+              <td id="answer7"></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </main>
+
+    <script type="module" src="src/index.js"></script>
+  </body>
+</html>
