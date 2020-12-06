@@ -1,5 +1,10 @@
 # Strings project
 
+### Deployed with Netlify
+
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/cd1f8520-bc99-4125-abc5-219d8f1c9f10/deploy-status)](https://app.netlify.com/sites/stupefied-bhabha-97831c/deploys)
+
+
 ## Setup
 
 ```bash
