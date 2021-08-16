@@ -1,9 +1,20 @@
-## Anagram String Manipulation project
+## Anagram String project - Morgan Murrah
+
+Built using public resources and an MIT licensed starter shell of the project.
+
+The sources and planning into this project is documented in [SOURCES.MD](SOURCES.MD). 
 
 # Node
 
 ```bash
 node main.js string1 string2 
+```
+
+Example:
+
+```bash
+ node main.js "this is a really long anagram" "this really long is a anagram"
+ The result is: ANAGRAM!
 ```
 
 # Web Build
