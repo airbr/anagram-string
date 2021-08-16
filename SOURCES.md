@@ -18,3 +18,14 @@
 
 * Node Arguments: https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/
 
+* YouTube: https://www.youtube.com/watch?v=rpMbqzlvKtA
+
+* Dev.To: https://dev.to/sarah_chima/anagrams-checker-three-javascript-solutions-53kp
+
+* Scotch.io https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms/anagrams
+
+* isAnagram Solution - Github. Emphasized concept of character maps. https://github.com/scotch-io/ultimate-guide-to-javascript-algorithms/blob/master/Beginner/isAnagram/index-SOLUTION.js
+
+* Constructing a Character Map from a String - https://medium.com/@matt.readout/constructing-a-character-map-from-a-string-afeb734a75f2
+
+* Relative links in markup files https://github.blog/2013-01-31-relative-links-in-markup-files/
