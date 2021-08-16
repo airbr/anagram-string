@@ -2,7 +2,9 @@
 
 This is a JavaScript focused repository for the web and node CLI to compare strings and determine if they are an Anagram. This project is built originally from a MIT licensed starter shell of the project to get a solid, optional, web build feature to compliment the Node CLI usage. 
 
-I found some different answers online to this question early in my search but I continud my search and made sure my own answer was my own work, typed by hand, and more importantly in terms of thought process and how I would typically code.
+I found some different answers online to this question early in my search but I continued my search and my answer is my own work in terms of my thought process of writing code and how I would apply what I researched.
+
+In this example the concept of Character Maps seemed to be the most important principle, so to make a initial program I focused on the simplest way to create a character map and compare two maps to see if they were composed of the same to match.
 
 The sources and planning that went into this project are documented in [SOURCES.MD](/SOURCES.md). 
 
