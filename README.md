@@ -1,8 +1,10 @@
 ## Anagram String project - Morgan Murrah
 
-Built using public resources and an MIT licensed starter shell of the project.
+This is a JavaScript focused repository to compare strings and determine if they are an Anagram. It is inteded to be extendible. This project is built using public resources including a MIT licensed starter shell of the project to get the web build option.
 
-The sources and planning into this project is documented in [SOURCES.MD](SOURCES.MD). 
+The sources and planning that went into this project are documented in [SOURCES.MD](/SOURCES.MD). 
+
+I found answers online to this question early in my search but I continud my search and made sure my own answer was my own work in terms of thought process and how I would typically code.
 
 # Node
 
