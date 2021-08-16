@@ -1,22 +1,23 @@
-# Strings project
+## Anagram String Manipulation project
 
-### Deployed with Netlify
+# Node
 
- [![Netlify Status](https://api.netlify.com/api/v1/badges/cd1f8520-bc99-4125-abc5-219d8f1c9f10/deploy-status)](https://app.netlify.com/sites/stupefied-bhabha-97831c/deploys)
+```bash
+node main.js string1 string2 
+```
 
+# Web Build
 
 ## Setup
 
 ```bash
 npm install
 ```
-
 **run the server**
 
 ```bash
 npm run serve
 ```
-
 Browse to [localhost:1234](http://localhost:1234)
 
 ## Parcel
