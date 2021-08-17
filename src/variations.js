@@ -37,14 +37,7 @@ function isAnagram(str1, str2) {
       return "NOT ANAGRAM!"
     }
   }
-  // TODO: Delete this code, no longer necessary with string length check at beginning
-  // Is character in str2 in str1?
-  // for (let char in str2map) {
-  //   if (str2map[char] !== str1map[char]) {
-  //     return "NOT ANAGRAM!"
-  //   }
-  // }
-  // If made it this far, is determined to be an Anagram
+ 
   return "ANAGRAM!"
 }
 
