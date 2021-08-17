@@ -19,4 +19,7 @@ describe('Using the is Anagram function from src/variations' , function(){
     it('Correctly determines an Anagram of along the riverways' , function(){
         assert.equal( isAnagram('river along the ways', 'along the riverways ') , 'ANAGRAM!');
     });
+    it('Correctly fails comparing two different strings' , function(){
+        assert.equal( isAnagram('one', 'two') , 'NOT ANAGRAM!');
+    });
 });
