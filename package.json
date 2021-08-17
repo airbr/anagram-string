@@ -6,7 +6,7 @@
   "scripts": {
     "serve": "parcel index.html",
     "build": "parcel build index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/mocha/bin/mocha tests/test.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/jadjoubran/web-starter-parcel#readme",
   "devDependencies": {
+    "mocha": "^9.0.3",
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {}

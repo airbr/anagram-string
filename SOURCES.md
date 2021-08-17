@@ -14,7 +14,7 @@ Sources:
 
 ### People
 
-Consulted with a good friend named Nathan about my choice of question and also an initial review of this repository as it exists on GitHub
+I consulted with a good friend named Nathan Carnes about my choice of question and also an initial review of this repository as it exists on GitHub
 
 
 ### Websites/Links
@@ -36,8 +36,10 @@ Consulted with a good friend named Nathan about my choice of question and also a
 
 * Scotch.io "The Ultimate Guide to JavaScript Algorithms Courses - Lesson 12 of 21" https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms/anagrams
 
-* isAnagram Solution - Github. https://github.com/scotch-io/ultimate-guide-to-javascript-algorithms/blob/master/Beginner/isAnagram/index-SOLUTION.js
+* Scotch.io "The Ultimate Guide to JavaScript Algorithms Courses - isAnagram Solution - Github". https://github.com/scotch-io/ultimate-guide-to-javascript-algorithms/blob/master/Beginner/isAnagram/index-SOLUTION.js
 
 * Constructing a Character Map from a String - https://medium.com/@matt.readout/constructing-a-character-map-from-a-string-afeb734a75f2
 
 * Relative links in markup files https://github.blog/2013-01-31-relative-links-in-markup-files/
+
+* Helpful Stack Overflow link about setting up basic Mocha tests: https://stackoverflow.com/questions/41780245/how-do-i-write-unit-tests-for-a-single-js-file
