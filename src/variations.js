@@ -13,10 +13,11 @@ function isAnagram(str1, str2) {
   function createCharacterMap(text) {
     let map = {};
     for (let char of text) {
-        if (map[char]) {
-            map[char.toLowerCase()]++
+        char = char.toLowerCase();
+        if (map.hasOwnProperty(char)) {
+            map[char]++
         } else {
-            map[char.toLowerCase()] = 1
+            map[char] = 1
         }
     }
     return map;
@@ -24,6 +25,7 @@ function isAnagram(str1, str2) {
   // Create Character Maps
   const str1map = createCharacterMap(str1);
   const str2map = createCharacterMap(str2);
+
   // Is character in str1 in str2?
   for (let char in str1map) {
     if (str1map[char] !== str2map[char]) {

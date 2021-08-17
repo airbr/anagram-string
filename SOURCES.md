@@ -43,3 +43,5 @@ I consulted with a good friend named Nathan Carnes about my choice of question a
 * Relative links in markup files https://github.blog/2013-01-31-relative-links-in-markup-files/
 
 * Helpful Stack Overflow link about setting up basic Mocha tests: https://stackoverflow.com/questions/41780245/how-do-i-write-unit-tests-for-a-single-js-file
+
+* Fixed error handling character maps, using has own property method to check instead: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty

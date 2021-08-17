@@ -20,6 +20,20 @@ Example:
  The result is: ANAGRAM!
 ```
 
+Run Mocha Tests:
+
+```bash
+   npm test
+
+  the is Anagram function from src/variations
+    ✔ Correctly determines an Anagram of hello
+    ✔ Correctly determines an Anagram of testing
+    ✔ Correctly determines an Anagram of trc aina
+    ✔ Correctly determines an Anagram of number123
+
+  4 passing (4ms)
+```
+
 # Web Build
 
 ## Setup
@@ -47,3 +61,7 @@ When you're ready to deploy, you can build for production with the following com
 ```bash
 npm run build
 ```
+
+## Ideas for further development
+
+* Making Whitespace optional for the comparison
