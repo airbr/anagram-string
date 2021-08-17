@@ -1,12 +1,12 @@
 
+* Choosing a question. Strong preference for the Anagram String question just from reading the questions it seemed the most approachable to make an extendible program for my skill level.
 
-* Pre-work:
+* My initial thought process was to set up an environment where I could test the strings in the browser as well as something on the CLI with Node, which lead me to start this repository as a duplication of the strings project.
 
-    * Choosing a question. Strong prefefence for the Anagram String question.
+* Strings project https://github.com/airbr/strings - This Github project about string manipulation is my own work but following instructions from a course released under MIT license at https://learnjavascript.online
 
-* Strings project - Own work following instructions from a course released under MIT license.
-
-* https://learnjavascript.online
+Sources Ive consulted:
+--
 
 * Duplicating a reposiitory: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/duplicating-a-repository
 
