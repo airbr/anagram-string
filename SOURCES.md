@@ -41,3 +41,11 @@ I consulted with a good friend named Nathan Carnes about my choice of question a
 * Helpful Stack Overflow link about setting up basic Mocha tests: https://stackoverflow.com/questions/41780245/how-do-i-write-unit-tests-for-a-single-js-file
 
 * Fixed error handling character maps, using has own property method to check instead: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty
+
+* Adding basic CI/CD with Github Actions:
+
+    * Difference between npm ci and npm install : https://stackoverflow.com/questions/52499617/what-is-the-difference-between-npm-install-and-npm-ci
+
+    * Intro to Github Actions: https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions
+
+    * Building and testing node JS: https://docs.github.com/en/actions/guides/building-and-testing-nodejs
