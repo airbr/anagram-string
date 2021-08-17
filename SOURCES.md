@@ -12,6 +12,13 @@
 Sources:
 --
 
+### People
+
+Consulted with a good friend named Nathan about my choice of question and also an initial review of this repository as it exists on GitHub
+
+
+### Websites
+
 * Duplicating a reposiitory: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/duplicating-a-repository
 
 * Created Duplicate repository https://github.com/airbr/anagram-string
