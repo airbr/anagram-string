@@ -5,7 +5,11 @@
 
 * Strings project https://github.com/airbr/strings - This Github project about string manipulation is my own work but following instructions from a course released under MIT license at https://learnjavascript.online
 
-Sources Ive consulted:
+* I found some different answers online to this question early in my search but I continued my search and my answer is my own work in terms of my thought process of writing code and how I would apply what I researched.
+
+* In this example question the concept of Character Maps seemed to be the most important principle, so to make a initial program I focused on making a simple readable way to create a character map and compare two maps to see if they were composed of the same to match.
+
+Sources:
 --
 
 * Duplicating a reposiitory: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/duplicating-a-repository
