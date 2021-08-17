@@ -3,7 +3,7 @@ var myFunc = require('../src/variations');
 var isAnagram = myFunc.isAnagram;
 
 var assert = require('assert');
-describe('the is Anagram function from src/variations' , function(){
+describe('Using the is Anagram function from src/variations' , function(){
     it('Correctly determines an Anagram of hello' , function(){
         assert.equal( isAnagram('hello', 'ehllo') , 'ANAGRAM!');
     });
@@ -15,5 +15,8 @@ describe('the is Anagram function from src/variations' , function(){
     });
     it('Correctly determines an Anagram of number123' , function(){
         assert.equal( isAnagram('number123', '123number') , 'ANAGRAM!');
+    });
+    it('Correctly determines an Anagram of along the riverways' , function(){
+        assert.equal( isAnagram('river along the ways', 'along the riverways ') , 'ANAGRAM!');
     });
 });

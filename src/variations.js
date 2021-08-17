@@ -9,6 +9,11 @@ function isAnagram(str1, str2) {
   if(str1 === str2) {
     return "ANAGRAM";
   }
+  // Are the strings the same length? Exit if not;
+  if (str1.length !== str2.length) {
+    console.log('Strings not same length');
+    return "NOT ANAGRAM!";
+  }
   // Function to create character map from a string
   function createCharacterMap(text) {
     let map = {};
@@ -32,12 +37,13 @@ function isAnagram(str1, str2) {
       return "NOT ANAGRAM!"
     }
   }
-    // Is character in str2 in str1?
-  for (let char in str2map) {
-    if (str2map[char] !== str1map[char]) {
-      return "NOT ANAGRAM!"
-    }
-  }
+  // TODO: Delete this code, no longer necessary with string length check at beginning
+  // Is character in str2 in str1?
+  // for (let char in str2map) {
+  //   if (str2map[char] !== str1map[char]) {
+  //     return "NOT ANAGRAM!"
+  //   }
+  // }
   // If made it this far, is determined to be an Anagram
   return "ANAGRAM!"
 }
