@@ -1,7 +1,7 @@
 
 When it came to choosing a question I had a strong preference for the anagram string question immediately. Just from reading the questions it seemed the most approachable to make an extendible program for my skill level.
 
-My initial thought was to set up an environment where I could test the strings in the browser as well as something on the CLI with Node, which lead me to start this repository as a duplication of a strings project in my Github: https://github.com/airbr/strings . This Github project is my own work but was made following instructions from a course released under MIT license at https://learnjavascript.online.
+My initial thought was to set up an environment where I could test the strings in the browser as well as something on the CLI with Node, which lead me to start this repository as a duplication of a strings project in my Github: https://github.com/airbr/strings . The Strings Github project is my own work but was made following instructions from a course released under MIT license at https://learnjavascript.online.
 
 I found some different answers online to this question early in my search but I continued my search and my answer is my own work by my own hand and in terms of my thought process of writing code and how I would apply what I researched although it overlaps some with resources consulted. In this example question the concept of Character Maps seemed to be the most important principle so to make a initial program I focused on making a simple readable implementation of a character map.
 
