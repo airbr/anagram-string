@@ -3,7 +3,7 @@ When it came to choosing a question I had a strong preference for the anagram st
 
 My initial thought was to set up an environment where I could test the strings in the browser as well as something on the CLI with Node, which lead me to start this repository as a duplication of a strings project in my Github: https://github.com/airbr/strings . The Strings Github project is my own work but was made following instructions from a course released under MIT license at https://learnjavascript.online.
 
-I found some different answers online to this question early in my search but I continued my search and my answer is my own work by my own hand and in terms of my thought process of writing code and how I would apply what I researched although it overlaps some with resources consulted. In this example question the concept of Character Maps seemed to be the most important principle so to make a initial program I focused on making a simple readable implementation of a character map.
+I found some different answers online to this question early in my search but I continued my search and my answer is my own work by my own hand and my thought process of writing code although it overlaps some with resources consulted. In this example question the concept of Character Maps seemed to be the most important principle so to make a initial program I focused on making a simple readable implementation of a character map that I anticipate some changes to.
 
 Sources:
 --
@@ -15,11 +15,11 @@ I consulted with a good friend named Nathan Carnes about my choice of question a
 
 ### Websites/Links
 
-* Duplicating a repository: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/duplicating-a-repository
+* Docs RE duplicating a repository: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/duplicating-a-repository
 
-* Created Duplicate repository: https://github.com/airbr/anagram-string
+* Created duplicate repository: https://github.com/airbr/anagram-string
 
-* Google Search of question produced this answer: https://stackoverflow.com/questions/23785465/javascript-anagram-comparison
+* Google Search of question produced this Stack Overflow answer: https://stackoverflow.com/questions/23785465/javascript-anagram-comparison
 
 * Array Sort Documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
 
