@@ -2,7 +2,7 @@
 
 # [Source Code](/src/variations.js)
 
-This is a JavaScript focused repository for the web and node CLI to compare strings and determine if they are an Anagram. This project is built originally from a MIT licensed starter shell of the project to get a solid, optional, web build feature to compliment the Node CLI usage. 
+This is a JavaScript focused repository for the web and node CLI to compare strings and determine if they are an Anagram. This project is built originally from a MIT licensed web starter shell project. 
 
 The sources and planning that went into this project are documented in [SOURCES.MD](/SOURCES.md). 
 

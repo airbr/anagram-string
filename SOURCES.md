@@ -1,13 +1,9 @@
 
-* When it came to choosing a question I had a strong preference for the Anagram String question immediately. Just from reading the questions it seemed the most approachable to make an extendible program for my skill level.
+When it came to choosing a question I had a strong preference for the anagram string question immediately. Just from reading the questions it seemed the most approachable to make an extendible program for my skill level.
 
-* My initial thought was to set up an environment where I could test the strings in the browser as well as something on the CLI with Node, which lead me to start this repository as a duplication of a strings project in my Github.
+My initial thought was to set up an environment where I could test the strings in the browser as well as something on the CLI with Node, which lead me to start this repository as a duplication of a strings project in my Github: https://github.com/airbr/strings . This Github project is my own work but was made following instructions from a course released under MIT license at https://learnjavascript.online.
 
-* Link to the original strings project: https://github.com/airbr/strings - This Github project about string manipulation is my own work but following instructions from a course released under MIT license at https://learnjavascript.online.
-
-* I found some different answers online to this question early in my search but I continued my search and my answer is my own work in terms of my thought process of writing code and how I would apply what I researched.
-
-* In this example question the concept of Character Maps seemed to be the most important principle, so to make a initial program I focused on making a simple readable way to create a character map and compare two maps to see if they were composed of the same to match.
+I found some different answers online to this question early in my search but I continued my search and my answer is my own work in terms of my thought process of writing code and how I would apply what I researched. In this example question the concept of Character Maps seemed to be the most important principle, so to make a initial program I focused on making a simple readable way to create a character map and compare two maps to see if they were composed of the same to match.
 
 Sources:
 --

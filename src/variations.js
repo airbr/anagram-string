@@ -32,6 +32,7 @@ function isAnagram(str1, str2) {
   const str2map = createCharacterMap(str2);
 
   // Is character in str1 in str2?
+  // NB: Issue of characters existing in str2 but not str1 addressed by string length check
   for (let char in str1map) {
     if (str1map[char] !== str2map[char]) {
       return "NOT ANAGRAM!"

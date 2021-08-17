@@ -8,7 +8,6 @@ const wordsa = document.querySelector("#wordsa");
 
 const wordsb = document.querySelector("#wordsb");
 
-
 wordsa.addEventListener("keyup", () => {
   const value1 = wordsa.value;
   const value2 = wordsb.value;
