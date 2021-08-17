@@ -3,7 +3,9 @@ When it came to choosing a question I had a strong preference for the anagram st
 
 My initial thought was to set up an environment where I could test the strings in the browser as well as something on the CLI with Node, which lead me to start this repository as a duplication of a strings project in my Github: https://github.com/airbr/strings . The Strings Github project is my own work but was made following instructions from a course released under MIT license at https://learnjavascript.online.
 
-I found some different answers online to this question early in my search but I continued my search and my answer is my own work by my own hand and my thought process of writing code although it overlaps some with resources consulted. In this example question the concept of Character Maps seemed to be the most important principle so to make a initial program I focused on making a simple readable implementation of a character map that I anticipate some changes to.
+I found some different answers online to this question early in my search but I continued my search and my answer is my own work and my thought process of writing code although it overlaps some with resources consulted I endeavoured to think through all the code I wrote. 
+
+In this example question the concept of Character Maps seemed to be the most important principle so to make a initial program I focused on making a simple readable implementation of a character map that I anticipate some changes to.
 
 Sources:
 --
@@ -35,8 +37,6 @@ I consulted with a good friend named Nathan Carnes about my choice of question a
 * Scotch.io "The Ultimate Guide to JavaScript Algorithms Courses - isAnagram Solution - Github". https://github.com/scotch-io/ultimate-guide-to-javascript-algorithms/blob/master/Beginner/isAnagram/index-SOLUTION.js
 
 * Constructing a Character Map from a String - https://medium.com/@matt.readout/constructing-a-character-map-from-a-string-afeb734a75f2
-
-* Relative links in markup files https://github.blog/2013-01-31-relative-links-in-markup-files/
 
 * Helpful Stack Overflow link about setting up basic Mocha tests: https://stackoverflow.com/questions/41780245/how-do-i-write-unit-tests-for-a-single-js-file
 
