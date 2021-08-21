@@ -20,9 +20,9 @@ function isAnagram(str1, str2) {
     for (let char of text) {
         char = char.toLowerCase();
         if (map.hasOwnProperty(char)) {
-            map[char]++
+            map[char]++;
         } else {
-            map[char] = 1
+            map[char] = 1;
         }
     }
     return map;
@@ -35,11 +35,11 @@ function isAnagram(str1, str2) {
   // NB: Issue of characters existing in str2 but not str1 addressed by string length check
   for (let char in str1map) {
     if (str1map[char] !== str2map[char]) {
-      return "NOT ANAGRAM!"
+      return "NOT ANAGRAM!";
     }
   }
  
-  return "ANAGRAM!"
+  return "ANAGRAM!";
 }
 
 module.exports = { isAnagram };
