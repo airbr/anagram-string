@@ -44,6 +44,8 @@ I consulted with a good friend named Nathan Carnes about my choice of question a
 
 * Fixed error handling character maps, using has own property method to check instead: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty
 
+* Additional: Handling on paste events: https://dirask.com/posts/JavaScript-after-paste-event-Vanilla-JS-jMwELD
+
 * Adding basic CI/CD with Github Actions:
 
     * Difference between npm ci and npm install : https://stackoverflow.com/questions/52499617/what-is-the-difference-between-npm-install-and-npm-ci
