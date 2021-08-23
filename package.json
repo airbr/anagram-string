@@ -20,7 +20,7 @@
   "homepage": "https://github.com/jadjoubran/web-starter-parcel#readme",
   "devDependencies": {
     "mocha": "^9.0.3",
-    "parcel": "latest"
+    "parcel-bundler": "latest"
   },
   "dependencies": {}
 }
