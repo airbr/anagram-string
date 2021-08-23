@@ -2,7 +2,7 @@
   "name": "web-starter-parcel",
   "version": "1.0.0",
   "description": "Web starter parcel",
-  "main": "src/index.js",
+  "main": "index.html",
   "scripts": {
     "serve": "parcel index.html",
     "build": "parcel build index.html",
