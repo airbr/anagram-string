@@ -2,7 +2,7 @@
   "name": "web-starter-parcel",
   "version": "1.0.0",
   "description": "Web starter parcel",
-  "main": "index.html",
+  "main": "src/index.js",
   "scripts": {
     "serve": "parcel index.html",
     "build": "parcel build index.html",
@@ -20,7 +20,7 @@
   "homepage": "https://github.com/jadjoubran/web-starter-parcel#readme",
   "devDependencies": {
     "mocha": "^9.0.3",
-    "parcel": "latest"
+    "parcel-bundler": "^1.12.4"
   },
   "dependencies": {}
 }
