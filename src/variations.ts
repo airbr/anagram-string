@@ -3,7 +3,8 @@
  * @param {string} string 2,
  * @return {string} result of anagram comparison
  */
-function isAnagram(str1, str2) {
+function isAnagram(str1: string, str2: string) {
+
 
   // Earliest correct exit opportunity: identical strings are anagram
   if(str1 === str2) {
@@ -14,9 +15,10 @@ function isAnagram(str1, str2) {
     console.log('Strings not same length');
     return "NOT ANAGRAM!";
   }
+
   // Function to create character map from a string
-  function createCharacterMap(text) {
-    let map = {};
+  function createCharacterMap(text: string) {
+    let map: any = {};
     for (let char of text) {
         char = char.toLowerCase();
         if (map.hasOwnProperty(char)) {
