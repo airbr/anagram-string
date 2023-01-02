@@ -4,7 +4,7 @@
   "description": "Web starter parcel",
   "scripts": {
     "serve": "parcel index.html",
-    "build": "parcel build index.html",
+    "build": "parcel build --dist-dir docs/ index.html",
     "test": "mocha --require ts-node/register tests/test.ts"
   },
   "repository": {
