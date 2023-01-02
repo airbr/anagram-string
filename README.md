@@ -1,8 +1,8 @@
 ## Anagram String project - Morgan Murrah
 
-# [Source Code](/src/variations.js)
+# [Source Code](/src/variations.ts)
 
-This is a JavaScript focused repository for the web and node CLI to compare strings and determine if they are anagrams. This project is built originally from a MIT licensed web starter shell project. Additionally, I have added some basic Mocha tests and CI/CD testing with Github Actions. 
+This is a TypeScript focused repository for the web and node CLI to compare strings and determine if they are anagrams.  There are also some basic Mocha tests in TS.
 
 The sources and planning that went into this project are documented in [SOURCES.MD](/SOURCES.md). 
 
@@ -10,13 +10,13 @@ The sources and planning that went into this project are documented in [SOURCES.
 # Node
 
 ```bash
-node main.js string1 string2 
+ts-node ./main.ts [string1] [string2] 
 ```
 
 Example:
 
 ```bash
- node main.js "this is a really long anagram" "this really long is a anagram"
+ ts-node ./main.ts "this is a really long anagram" "this really long is a anagram"
  The result is: ANAGRAM!
 ```
 
@@ -65,5 +65,3 @@ npm run build
 ## Ideas for further development
 
 * Making Whitespace optional for the comparison, adding this as a changeable option to the web interface
-
-* Add CI/CD: Run Mocha tests automatically on every push to master
