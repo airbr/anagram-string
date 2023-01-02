@@ -1,6 +1,7 @@
 import {
   isAnagram
-} from "./variations.js";
+} from "./variations";
+// TODO: Fix this module error^ 
 
 const answer1 = document.querySelector("#answer1");
 
