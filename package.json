@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Web starter parcel",
   "scripts": {
-    "serve": "parcel index.html",
-    "build": "parcel build --dist-dir docs/ index.html",
+    "serve": "parcel src/index.html",
+    "build": "parcel build --dist-dir ./ src/index.html",
     "test": "mocha --require ts-node/register tests/test.ts"
   },
   "repository": {
