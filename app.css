@@ -36,8 +36,9 @@ nav h1 {
 }
 
 .textbox {
+  width: 90%;
   border: 0;
-  min-width: 200px;
+  /* min-width: 200px; */
   padding: 15px 20px;
   font-size: 16px;
   min-height: 50px;
